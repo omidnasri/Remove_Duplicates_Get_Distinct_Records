@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Remove_Duplicates_Get_Distinct_Records
 {
@@ -41,11 +39,8 @@ namespace Remove_Duplicates_Get_Distinct_Records
         }
     }
     public class Employee
-
     {
-
         public string Name { get; set; }
-
         public int EmpID { get; set; }
 
     }
